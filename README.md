@@ -16,7 +16,6 @@ A comprehensive iOS application for tracking and managing eye health measurement
 - **Multi-language Support**: English and French localization
 - **Firebase Integration**: Secure cloud storage and authentication
 - **Medication Reminders**: Set and manage medication reminders
-- **Accessibility**: Full VoiceOver support and accessibility features
 
 ## Setup Instructions
 
